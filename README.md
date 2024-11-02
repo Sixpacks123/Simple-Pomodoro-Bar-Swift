@@ -3,6 +3,8 @@
 
 A minimalist Pomodoro timer app for macOS, integrated into the menu bar. This app follows the Pomodoro technique with a 25-minute work session followed by a 5-minute break, complete with notifications and sound alerts when each session ends.
 
+![image](https://github.com/user-attachments/assets/bf11f9da-ad7f-4bdd-b966-bf7d59fc33a0)
+
 ## Features
 
 - **Full Pomodoro Cycle**: Alternates between a 25-minute work session and a 5-minute break.
