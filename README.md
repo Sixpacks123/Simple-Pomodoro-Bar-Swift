@@ -84,3 +84,11 @@ You can adjust certain settings by modifying the code:
 Contributions are welcome! To add features or fix bugs, please create a branch and open a Pull Request.
 
 
+## Todo
+- Settings pages
+- Buidl
+- logo app
+- statistique
+- routine
+- 
+
