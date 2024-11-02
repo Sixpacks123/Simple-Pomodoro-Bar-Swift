@@ -1,6 +1,3 @@
-Here’s the README in English:
-
----
 
 # Pomodoro macOS App
 
